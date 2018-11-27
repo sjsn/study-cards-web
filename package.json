@@ -1,0 +1,39 @@
+{
+  "name": "study-cards-web",
+  "version": "1.0.0",
+  "description": "A flashcard app made for Bob",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "flashcards"
+  ],
+  "author": "Sam San Nicolas",
+  "license": "ISC",
+  "dependencies": {
+    "emotion": "^9.2.12",
+    "moment": "^2.22.2",
+    "react": "^16.7.0-alpha.2",
+    "react-dom": "^16.7.0-alpha.2",
+    "react-emotion": "^9.2.12",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "rrule": "^2.5.6"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint-plugin-react": "^7.11.1",
+    "react-scripts": "^2.1.1"
+  }
+}
